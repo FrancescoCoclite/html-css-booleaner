@@ -38,3 +38,29 @@ h1{
 .lista{
     padding: 10px;
 } 
+thead{
+    background-color: #20A9E5;
+}
+.blue{
+    background-color: #B1E5F2;
+}
+.testo-fin{
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.fine{
+    font-size: 20px;
+    color: gray;
+}
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 200px;
+    color: honeydew;
+}
+.graph{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 200px;
+    color: honeydew;
+}
