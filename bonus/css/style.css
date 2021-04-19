@@ -1,0 +1,74 @@
+main{
+    margin-left: 150px;
+    margin-right: 150px;
+    
+}
+.bg{
+    background: #4EA0FF;
+     height: 70px;
+     background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: 20%;
+}
+.logo{
+    height: 40px;
+    margin-top: 20px;
+}
+
+
+h1{
+    font-size: 50px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.scritto{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.fonte{
+    color: #2EAEE7;
+}
+.data{
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+}
+.didascalie{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+.evidenziato{
+    background-color: yellow;
+}
+.lista{
+    padding: 10px;
+} 
+thead{
+    background-color: #20A9E5;
+}
+.blue{
+    background-color: #B1E5F2;
+}
+.testo-fin{
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.fine{
+    font-size: 20px;
+    color: gray;
+}
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 200px;
+    color: honeydew;
+}
+.graph{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 200px;
+    color: honeydew;
+}
+.rotondo{
+    border-radius: 30px;
+}
