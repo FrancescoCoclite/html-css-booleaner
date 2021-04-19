@@ -1,0 +1,25 @@
+.bg{
+    background: #4EA0FF;
+     height: 70px;
+     
+}
+/* problema immagine */
+
+h1{
+    font-size: 50px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.scritto{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.fonte{
+    color: #2EAEE7;
+}
+.data{
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+}
+
